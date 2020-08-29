@@ -1,5 +1,5 @@
 # WordMe
-A discord chat bot that allows the user to get the word of the day, search for the definition of a word, and get the definition of a random word.
+A Discord chat bot that allows the user to get the word of the day, search for the definition of a word, and get the definition of a random word.
 
 ## Demo
 ![botdemo](https://user-images.githubusercontent.com/55164493/89823133-cf739780-db05-11ea-9114-7c4a516b27e2.gif)
